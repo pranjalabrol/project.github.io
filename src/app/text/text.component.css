@@ -1,0 +1,35 @@
+.container{
+  width:50%;
+    margin-left:25%;
+    margin-right:25%;
+    margin-top: 3%;
+    border-color: black;
+    height: 150px;
+    background-color: rgb(241, 234, 234);
+    outline: 600px solid rgb(234, 234, 238);
+}
+.button{
+
+ margin-top: 30px;
+ margin-left: 400px;
+
+
+}
+.text {
+margin-top: 100px;
+margin-bottom: 50px;
+width: 500px;
+margin-left: 420px;
+border-color: black;
+background-color: rgb(241, 234, 234);
+height: 150px;
+
+
+}
+body{
+  background-color:rgb(234, 234, 238);
+}
+.summary{
+margin-right: 30px;
+margin-left: 330px;
+}

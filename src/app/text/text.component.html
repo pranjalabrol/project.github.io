@@ -1,0 +1,16 @@
+<body>
+
+<textarea class="container" type="text" [(ngModel)]="text"></textarea>
+<div class="button">
+<button (click)="onUpperCase()"  class="btn btn-secondary mx-3">Upper Case</button>
+<button (click)="onLowerCase()" class="btn btn-secondary mx-3" >Lower Case</button>
+<button (click)="onClearCase()" class="btn btn-secondary mx-3" >Clear Text</button>
+<button (click)="removeSpaces()" class="btn btn-secondary mx-3" >Remove Space</button>
+</div>
+</body>
+<br>
+<br>
+<div class="summary">
+  <h2>Your text summary</h2>
+<p>{{this.text}}</p></div>
+

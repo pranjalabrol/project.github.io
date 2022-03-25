@@ -1,0 +1,13 @@
+.card{
+  margin-top: 15px;
+  border:1px solid black;
+  width: 550px;
+  padding: 45px;
+position: absolute;
+  top: 15%;
+  left: 30%;
+  background-color: rgb(189, 195, 209);
+/* border-color: rgb(138, 156, 199); */
+outline: 700px solid rgb(138, 156, 199);
+}
+
